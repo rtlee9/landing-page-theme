@@ -5,3 +5,4 @@
   * [ ] Switch emails
   * [ ] Add any social media accounts
 * [ ] Add pictures
+* [ ] Add confirmation message post form completion
