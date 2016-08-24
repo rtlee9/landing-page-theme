@@ -7,3 +7,4 @@
 * [ ] Add pictures
 * [ ] Add confirmation message post form completion
 * [ ] Fix footer on pages (404 and thanks) -- fix to bottom of screen
+* [x] Fix "unsafe" scripts on https
