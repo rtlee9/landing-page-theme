@@ -1,5 +1,6 @@
 # To Do
 
+* [ ] Add pricing info
 * Update contact information
   * [ ] Add call -> phone number popup
   * [ ] Switch emails
