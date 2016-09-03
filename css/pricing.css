@@ -105,7 +105,7 @@ a {
 	z-index: 1;
 	display: inline-block;
 	float: left;
-	width: 90px;
+	width: 70px;
 	height: 40px;
 	line-height: 40px;
 	cursor: pointer;
@@ -118,7 +118,7 @@ a {
 	top: 2px;
 	left: 2px;
 	height: 40px;
-	width: 90px;
+	width: 70px;
 	background-color: #2d3e50;
 	border-radius: 50em;
 	-webkit-transition: -webkit-transform 0.5s;
@@ -768,8 +768,17 @@ a {
 
 h2 {
     font-weight: 400;
+    color: white;
     font-size: 200%;
     margin-bottom: 30px;
     margin-top: 10px;
     text-align: left;
+}
+
+h3 {
+    font-weight: 200;
+    color: white;
+    font-size: 125%;
+    margin-bottom: 10px;
+    text-align: center;
 }
