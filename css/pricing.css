@@ -19,7 +19,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section, main {
 	display: block;
 }
@@ -70,17 +70,9 @@ a {
 }
 
 .pricing-container {
-	width: 90%;
-	max-width: 900px;
-	margin: 4em auto;
-}
-
-.pricing-container {
-    margin: 6em auto;
-}
-.pricing-container.full-width {
-    width: 100%;
-    max-width: none;
+	width: 95%;
+	max-width: 1100px;
+	margin: 3em auto;
 }
 
 .pricing-switcher {
@@ -410,7 +402,7 @@ a {
     font-weight: 300;
 }
 
-.currency, 
+.currency,
 .duration {
     color: #1bbc9d;
 }
@@ -485,7 +477,7 @@ a {
 .exclusive .pricing-features li {
     margin: 0 3px;
 }
-  
+
 .pricing-features em {
     display: inline-block;
     margin-bottom: 0;
@@ -555,19 +547,19 @@ a {
     background-color: #1bbc9d;
 	color: #ffffff;
 }
-  
+
 .no-touch .exclusive .select:hover {
     background-color: #24e0ba;
 }
-  
+
 .secondary-theme .exclusive .select {
     background-color: #1bbc9d;
 }
-  
+
 .no-touch .secondary-theme .exclusive .select:hover {
     background-color: #112e3c;
 }
-  
+
 .has-margins .select {
     display: block;
     padding: 1.7em 0;

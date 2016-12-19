@@ -186,3 +186,12 @@ p.copyright {
 #section3:hover {
   color: #0085a1;
 }
+
+#pricing {
+  margin-bottom: 50px;
+}
+
+#pricing .btn {
+  margin-bottom: 50px;
+  border-radius: 25px;
+}
