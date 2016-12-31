@@ -1,12 +1,12 @@
 # To Do
 
-* [ ] Add pricing info
+* [x] Add pricing info
 * Update contact information
   * [ ] Add call -> phone number popup
   * [ ] Switch emails
   * [ ] Handover scheduling account
-* [ ] Update pictures
-* [ ] Link should return to base color after no long in focus
+* [x] Update pictures
+* [ ] Link should return to base color after no longer in focus
 * Scheduling
   * [ ] Link to [Calendy](https://calendly.com/)
   * [ ] Add all options
